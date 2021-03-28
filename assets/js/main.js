@@ -49,3 +49,6 @@ pelicula.playMultimedia();
 music.playMultimedia();
 serie.playMultimedia();
 meme.playMultimedia();
+
+meme.setInicio(30);
+
